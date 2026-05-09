@@ -1,0 +1,15 @@
+{
+  "short_name": "MyWallet",
+  "name": "Mhbioz Wealth Manager",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0b",
+  "background_color": "#0a0a0b",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
